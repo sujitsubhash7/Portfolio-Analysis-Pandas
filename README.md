@@ -12,3 +12,5 @@ Read the CSV files into DataFrames and clean the data. Ensure that all null valu
 ## Quaitative Analysis
 
 Analyze the data to see if any of the portfolios outperform the the S&P 500. Conduct performance analysis, risk analysis, and evaluate the rolling statistics for all portfolios. Using the daily returns, calculate and visualize the Sharpe ratios using a bar plot and determine if the algorithmic strategies outperform both the S&P 500 and the whales portfolios.
+
+The code and results can be found here: [whale_analysis.ipynb](https://github.com/sujitsubhash7/Portfolio-Analysis-Pandas/blob/main/Starter_Code/whale_analysis.ipynb)
