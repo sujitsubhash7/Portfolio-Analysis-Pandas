@@ -9,3 +9,6 @@ We have been presented with the task of identifying which portfolio is performin
 Read the CSV files into DataFrames and clean the data. Ensure that all null values are detected and removed. Remove nonnumric symbols and convert datatypes to appropriate types. After cleaning, combine all DataFrames into a single DataFrame. 
 
 
+## Quaitative Analysis
+
+Analyze the data to see if any of the portfolios outperform the the S&P 500. Conduct performance analysis, risk analysis, and evaluate the rolling statistics for all portfolios. Using the daily returns, calculate and visualize the Sharpe ratios using a bar plot and determine if the algorithmic strategies outperform both the S&P 500 and the whales portfolios.
